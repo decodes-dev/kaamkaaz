@@ -2,9 +2,7 @@
 
 <a href="https://decodes-goodwill.web.app/"><img src="https://img.shields.io/badge/Visit-Live_Website-FFF5EB.svg?"/></a>
 <a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/badge/Join_Discord-7289DA.svg?"/></a>
-<a href="http://docs.discord.red/en/stable/?badge=stable">
-<img src="https://img.shields.io/github/issues/decodes-dev/kaamkaaz" alt="Number of open issues" />
-</a>
+<a href="http://docs.discord.red/en/stable/?badge=stable"><img src="https://img.shields.io/github/issues/decodes-dev/kaamkaaz" alt="Number of open issues" /></a>
 <a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/github/license/decodes-dev/kaamkaaz"/></a>
 
 <br />
