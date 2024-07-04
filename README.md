@@ -1,30 +1,49 @@
-# React + TypeScript + Vite
+# READ THIS 🪴
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/badge/Join Discord-7289DA.svg?"></a>
+<a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/github/license/decodes-dev/kaamkaaz"></a>
+<a href="http://docs.discord.red/en/stable/?badge=stable">
+<img src="https://img.shields.io/github/issues/decodes-dev/kaamkaaz" alt="Number of open issues">
+</a>
 
-Currently, two official plugins are available:
+<br />
+This project uses React, Typescript, NPM, and Vite. In future we are planning to include libraries like styled-components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br/>
 
-## Expanding the ESLint configuration
+Feel free to recommend design or code changes in the community or open an issue if needed.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<br/>
 
-- Configure the top-level `parserOptions` property like this:
+## Guidelines &nbsp;👩‍🏫
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+1. Join our [Discord Community](https://discord.gg/jz4nVha6hX).
+2. We understand that comments are difficult to write, but try!
+3. Feel free to change the UI or UX.
+4. Have a look at [Open Issues](https://github.com/decodes-dev/kaamkaaz/issues) to start picking up your tasks. Feel free to create new ones if needed.
+
+<br/>
+
+## Steps to Install &nbsp;⬇️
+
+To install and run the application locally, follow these steps:
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/decodes-dev/kaamkaaz.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+2. Install the dependencies using npm:
+
+```sh
+npm install
+```
+
+3. Start the development server:
+
+```sh
+ npm run dev
+```
+
+4. Open your web browser and visit [localhost:3000](http://localhost:3000) to view the application.
