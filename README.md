@@ -1,15 +1,15 @@
 # READ THIS 🪴
 
-<a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/badge/Join Discord-7289DA.svg?"></a>
-<a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/github/license/decodes-dev/kaamkaaz"></a>
+<a href="https://decodes-goodwill.web.app/"><img src="https://img.shields.io/badge/Visit-Live_Website-FFF5EB.svg?"/></a>
+<a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/badge/Join_Discord-7289DA.svg?"/></a>
 <a href="http://docs.discord.red/en/stable/?badge=stable">
-<img src="https://img.shields.io/github/issues/decodes-dev/kaamkaaz" alt="Number of open issues">
+<img src="https://img.shields.io/github/issues/decodes-dev/kaamkaaz" alt="Number of open issues" />
 </a>
+<a href="https://discord.gg/jz4nVha6hX"><img src="https://img.shields.io/github/license/decodes-dev/kaamkaaz"/></a>
 
 <br />
-This project uses React, Typescript, NPM, and Vite. In future we are planning to include libraries like styled-components.
 
-<br/>
+This project uses React, Typescript, NPM, and Vite. In future we are planning to include libraries like styled-components.
 
 Feel free to recommend design or code changes in the community or open an issue if needed.
 
